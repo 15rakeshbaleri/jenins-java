@@ -5,8 +5,7 @@ class jenkins {
         System.out.println("Hello World");
         System.out.println("Hello Jenkins i have made some changes");
         System.out.println(new Date());
-        System.out.println("Hello World");
-        System.out.println("Hello Jenkins i have made some changes");
-        System.out.println(new Date());
+        Students s = new Students();
+        s.studentname("rakesh");
     }
 }
